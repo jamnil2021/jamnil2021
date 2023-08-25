@@ -1,0 +1,168 @@
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Fish Dealer Sales and Recording System.exe.config
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Fish Dealer Sales and Recording System.exe
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Fish Dealer Sales and Recording System.pdb
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csprojAssemblyReference.cache
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Dashboard.resources
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Properties.Resources.resources
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csproj.GenerateResource.cache
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csproj.CoreCompileInputs.cache
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.exe
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.pdb
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\FontAwesome.Sharp.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.xml
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.xml
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csproj.CopyComplete
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Record.resources
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.AddRecord.resources
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Import.resources
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.ManageRecord.resources
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Export.resources
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Expenses.resources
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.FishAvailableForm.resources
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.ValueUpdater.resources
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\stdole.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.PrintReport.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\ReportSalesSummary.rpt
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\ReportSalesSummary.cs
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Fish Dealer Sales and Recording System.exe.config
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Fish Dealer Sales and Recording System.exe
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Fish Dealer Sales and Recording System.pdb
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EPPlus.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\stdole.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.xml
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EPPlus.xml
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.xml
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Files.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Login.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Home.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Crew.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.FishAvailableForm.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Expenses.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Export.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.AddRecord.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Dashboard.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Import.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.ManageRecord.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.PrintReport.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Properties.Resources.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Record.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.ValueUpdater.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Statistic.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Tax.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csproj.GenerateResource.cache
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csproj.CoreCompileInputs.cache
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csproj.CopyComplete
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.exe
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.pdb
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csprojAssemblyReference.cache
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csprojAssemblyReference.cache
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Files.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Login.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Home.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Crew.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.FishAvailableForm.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Expenses.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Export.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.AddRecord.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Dashboard.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Import.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.ManageRecord.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.PrintReport.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Properties.Resources.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Record.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.ValueUpdater.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Statistic.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.Tax.resources
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csproj.GenerateResource.cache
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csproj.CoreCompileInputs.cache
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.exe
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.pdb
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\ReportSalesSummary.rpt
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\ReportSalesSummary.cs
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Fish Dealer Sales and Recording System.exe.config
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Fish Dealer Sales and Recording System.exe
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Fish Dealer Sales and Recording System.pdb
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\stdole.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.xml
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\System.Data.SQLite.xml
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish Dealer Sales and Recording System.csproj.CopyComplete
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EPPlus.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Marianne F. Borra\Documents\Temp_Account\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\bin\Debug\EPPlus.xml
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.VarietyFishExcelToDB.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.ExcelToDBForms.resources
+C:\Users\Yusuke\OneDrive\Fish Dealer Sales and Recording System\Fish Dealer Sales and Recording System\obj\Debug\Fish_Dealer_Sales_and_Recording_System.ExpensesExcelToDB.resources
